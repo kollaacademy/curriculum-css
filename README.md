@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td><strong>Perkiraan Waktu Pelatihan</th>
-      <td>39 Jam Pelatihan</td>
+      <td>75 Jam Pelatihan</td>
     </tr>
     <tr>
       <td><strong>Persyaratan Umum Peserta Pelatihan</strong></td>
@@ -160,7 +160,7 @@
     <td><strong>css.101.007</strong></td>
     <td>3</td>
     <td>3</td>
-    <td>3</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>8</td>
@@ -175,7 +175,7 @@
     <th colspan="4">Jumlah</th>
     <td>33</td>
     <td>42</td>
-    <td>126</td>
+    <td>75</td>
   </tr>
 </table>
 
