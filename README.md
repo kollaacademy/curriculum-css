@@ -113,9 +113,9 @@
     <td><strong>Sintaks dan Tata Bahasa CSS</strong></td>
     <td>Menjelaskan sintaks dan tata bahasa dalam CSS</td>
     <td><strong>css.101.002</strong></td>
+    <td>3</td>
     <td>6</td>
-    <td>6</td>
-    <td>12</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>3</td>
