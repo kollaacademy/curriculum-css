@@ -203,7 +203,7 @@
   <tr>
     <td>2</td>
     <td>Udemy</td>
-    <td><a href="https://www.udemy.com/course/html-in-one-hour/" title="HTML in One Hour">HTML in One Hour</a></td>
+    <td><a href="https://www.udemy.com/course/learn-to-code-in-html-and-css/" title="Become a HTML and CSS Developer">Become a HTML and CSS Developer</a></td>
     <td>✓</td>
     <td></td>
   </tr>
