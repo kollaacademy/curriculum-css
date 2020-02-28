@@ -113,27 +113,27 @@
     <td><strong>Sintaks dan Tata Bahasa CSS</strong></td>
     <td>Menjelaskan sintaks dan tata bahasa dalam CSS</td>
     <td><strong>css.101.002</strong></td>
-    <td>3</td>
-    <td>3</td>
     <td>6</td>
+    <td>6</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>3</td>
     <td><strong>Topografi CSS</strong></td>
     <td>Menerapkan topografi dalam halaman web</td>
     <td><strong>css.101.003</strong></td>
-    <td>3</td>
-    <td>3</td>
     <td>6</td>
+    <td>12</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>4</td>
     <td><strong>Tipografi CSS</strong></td>
     <td>Menerapkan tipografi dalam halaman web </td>
     <td><strong>css.101.004</strong></td>
-    <td>3</td>
-    <td>3</td>
     <td>6</td>
+    <td>6</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>5</td>
@@ -149,17 +149,17 @@
     <td><strong>Multimedia CSS</strong></td>
     <td>Menerapkan multimedia dalam halaman web</td>
     <td><strong>css.101.006</strong></td>
-    <td>1</td>
-    <td>2</td>
     <td>3</td>
+    <td>3</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>7</td>
     <td><strong>Table CSS</strong></td>
     <td>Menerapkan table dalam halaman web</td>
     <td><strong>css.101.007</strong></td>
-    <td>1</td>
-    <td>2</td>
+    <td>3</td>
+    <td>3</td>
     <td>3</td>
   </tr>
   <tr>
@@ -167,9 +167,9 @@
     <td><strong>Form CSS</strong></td>
     <td>Menerapkan form dalam halaman web</td>
     <td><strong>css.101.008</strong></td>
-    <td>3</td>
-    <td>3</td>
     <td>6</td>
+    <td>6</td>
+    <td>12</td>
   </tr>
   <tr>
     <th colspan="4">Jumlah</th>
