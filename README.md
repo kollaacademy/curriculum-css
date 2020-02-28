@@ -179,4 +179,64 @@
   </tr>
 </table>
 
+<h2>Sertifikasi</h2>
+
+<table>
+  <tr>
+    <tr>
+    <th rowspan="2">No</th>
+    <th rowspan="2">Penyelenggara</th>
+    <th rowspan="2">Sertifikasi</th>
+    <th colspan="2">Biaya</th>
+  </tr>
+  <tr>
+    <th>Free</th>
+    <th>Paid</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>SoloLearn</td>
+    <td><a href="https://www.sololearn.com/Course/CSS/" title="CSS Fundamentals">CSS Fundamentals</a></td>
+    <td>✓</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Udemy</td>
+    <td><a href="https://www.udemy.com/course/html-in-one-hour/" title="HTML in One Hour">HTML in One Hour</a></td>
+    <td>✓</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Coursera</td>
+    <td><a href="https://www.coursera.org/learn/introcss" title="Introduction to CSS3">Introduction to CSS3</a></td>
+    <td>✓ (audit)</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>edX</td>
+    <td><a href="https://www.edx.org/course/css-basics" title="CSS Basics">CSS Basics</a></td>
+    <td>✓ (audit)</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>edX</td>
+    <td><a href="https://www.edx.org/course/html5-and-css-fundamentals" title="HTML5 and CSS Fundamentals">HTML5 and CSS Fundamentals</a></td>
+    <td>✓ (audit)</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>FreeCodeCamp</td>
+    <td><a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/" title="Introduction to Basic CSS">Introduction to Basic CSS</a></td>
+    <td>✓</td>
+    <td></td>
+  </tr>
+</table>
+
+<h2>Materi Ajar</h2>
+
 Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-css/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-css/wiki)
