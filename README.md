@@ -42,8 +42,8 @@
       <td><strong>Unit Kompetensi yang ditempuh</strong></td>
       <td>
         <ol>
-          <li><strong>css.101.001</strong> Mengerti posisi CSS dalam ekosistem web</li>
-          <li><strong>css.101.002</strong> Mengerti sintaks dan tata bahasa dalam CSS</li>
+          <li><strong>css.101.001</strong> Menjelaskan posisi CSS dalam ekosistem web</li>
+          <li><strong>css.101.002</strong> Menjelaskan sintaks dan tata bahasa dalam CSS</li>
           <li><strong>css.101.003</strong> Menerapkan topografi dalam halaman web</li>
           <li><strong>css.101.004</strong> Menerapkan tipografi dalam halaman web</li>
           <li><strong>css.101.005</strong> Menerapkan hyperlink dalam halaman web</li>
@@ -102,7 +102,7 @@
   <tr>
     <td>1</td>
     <td><strong>Ekosistem CSS</strong></td>
-    <td>Mengerti posisi CSS dalam ekosistem web</td>
+    <td>Menjelaskan posisi CSS dalam ekosistem web</td>
     <td><strong>css.101.001</strong></td>
     <td>3</td>
     <td>0</td>
@@ -111,7 +111,7 @@
   <tr>
     <td>2</td>
     <td><strong>Sintaks dan Tata Bahasa CSS</strong></td>
-    <td>Mengerti sintaks dan tata bahasa dalam CSS</td>
+    <td>Menjelaskan sintaks dan tata bahasa dalam CSS</td>
     <td><strong>css.101.002</strong></td>
     <td>3</td>
     <td>3</td>
