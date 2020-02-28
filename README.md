@@ -230,6 +230,13 @@
   </tr>
   <tr>
     <td>6</td>
+    <td>Udacity</td>
+    <td><a href="https://www.udacity.com/course/intro-to-html-and-css--ud001" title="Intro to HTML and CSS">Intro to HTML and CSS</a></td>
+    <td>✓ (audit)</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>7</td>
     <td>FreeCodeCamp</td>
     <td><a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/" title="Introduction to Basic CSS">Introduction to Basic CSS</a></td>
     <td>✓</td>
@@ -239,4 +246,4 @@
 
 <h2>Materi Ajar</h2>
 
-Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-css/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-css/wiki)
+Lihat [Materi Ajar](https://github.com/kollaacademy/kurikulum-css/wiki) di [Wiki](https://github.com/kollaacademy/kurikulum-css/wiki)
