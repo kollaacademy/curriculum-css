@@ -1,4 +1,7 @@
-<h1>SILABUS CSS DEVELOPER</h1>
+<h1>CSS DEVELOPER</h1>
+
+<h2>Silabus</h2>
+
 <table>
   <tbody>
     <tr>
@@ -7,7 +10,7 @@
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
-      <td>css101</td>
+      <td><strong>css.101</strong></td>
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
@@ -39,22 +42,20 @@
       <td><strong>Unit Kompetensi yang ditempuh</strong></td>
       <td>
         <ol>
-          <li>Selector</li>
-          <li>Properties</li>
-          <li>Tipografi</li>
-          <li>Class dan ID</li>
-          <li>Topografi</li>
-          <li>Color</li>
-          <li>Images</li>
-          <li>Hyperlink</li>
-          <li>Table</li>
-          <li>Form</li>
+          <li><strong>css.101.001</strong> Mengerti posisi CSS dalam ekosistem web</li>
+          <li><strong>css.101.002</strong> Mengerti sintaks dan tata bahasa dalam CSS</li>
+          <li><strong>css.101.003</strong> Menerapkan topografi dalam halaman web</li>
+          <li><strong>css.101.004</strong> Menerapkan tipografi dalam halaman web</li>
+          <li><strong>css.101.005</strong> Menerapkan hyperlink dalam halaman web</li>
+          <li><strong>css.101.006</strong> Menerapkan multimedia dalam halaman web</li>
+          <li><strong>css.101.007</strong> Menerapkan table dalam halaman web</li>
+          <li><strong>css.101.008</strong> Menerapkan form dalam halaman web</li>
         </ol>
       </td>
     </tr>
     <tr>
       <td><strong>Perkiraan Waktu Pelatihan</th>
-      <td>30 - 42 Jam Pelatihan</td>
+      <td>39 Jam Pelatihan</td>
     </tr>
     <tr>
       <td><strong>Persyaratan Umum Peserta Pelatihan</strong></td>
@@ -68,12 +69,13 @@
       </td>
     </tr>
     <tr>
-      <td><strong>Persyaratan Tenaga Pengajar</strong></td>
+      <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi Komputer dan Internet</li>
-          <li>Memiliki Kompetensi HTML</li>
-          <li>Memiliki Kompetensi CSS</li>
+          <li>Memiliki Kompetensi <strong>komputer.101</strong></li>
+          <li>Memiliki Kompetensi <strong>internet.101</strong></li>
+          <li>Memiliki Kompetensi <strong>css.101</strong></li>
+          <li>Memiliki Kompetensi <strong>css.101</strong></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
         </ol>
       </td>
@@ -81,4 +83,100 @@
   </tbody>
 </table>
 
-Lihat silabus di [Wiki](https://github.com/kollaacademy/curriculum-css/wiki)
+<h2>Kurikulum</h2>
+
+<table>
+  <tr>
+    <th rowspan="2">No</th>
+    <th rowspan="2">Mata Pelatihan</th>
+    <th colspan="2">Unit Kompetensi Acuan</th>
+    <th colspan="3">Perkiraan Waktu Pelatihan (JP)</th>
+  </tr>
+  <tr>
+    <th>Unit Kompetensi</th>
+    <th>Kode Unit kompetensi</th>
+    <th>Pengetahuan</th>
+    <th>Keterampilan</th>
+    <th>Jumlah</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><strong>Ekosistem CSS</strong></td>
+    <td>Mengerti posisi CSS dalam ekosistem web</td>
+    <td><strong>css.101.001</strong></td>
+    <td>3</td>
+    <td>0</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><strong>Sintaks dan Tata Bahasa CSS</strong></td>
+    <td>Mengerti sintaks dan tata bahasa dalam CSS</td>
+    <td><strong>css.101.002</strong></td>
+    <td>3</td>
+    <td>3</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><strong>Topografi CSS</strong></td>
+    <td>Menerapkan topografi dalam halaman web</td>
+    <td><strong>css.101.002</strong></td>
+    <td>3</td>
+    <td>3</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><strong>Tipografi CSS</strong></td>
+    <td>Menerapkan tipografi dalam halaman web </td>
+    <td><strong>css.101.003</strong></td>
+    <td>3</td>
+    <td>3</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><strong>Hyperlink CSS</strong></td>
+    <td>Menerapkan hyperlink dalam halaman web</td>
+    <td><strong>css.101.004</strong></td>
+    <td>3</td>
+    <td>3</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><strong>Multimedia CSS</strong></td>
+    <td>Menerapkan multimedia dalam halaman web</td>
+    <td><strong>css.101.004</strong></td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td><strong>Table CSS</strong></td>
+    <td>Menerapkan table dalam halaman web</td>
+    <td><strong>css.101.005</strong></td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td><strong>Form CSS</strong></td>
+    <td>Menerapkan form dalam halaman web</td>
+    <td><strong>css.101.006</strong></td>
+    <td>3</td>
+    <td>3</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <th colspan="4">Jumlah</th>
+    <td>20</td>
+    <td>19</td>
+    <td>39</td>
+  </tr>
+</table>
+
+Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-css/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-css/wiki)
